@@ -103,7 +103,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.168",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.11.10",
     "reactjs-popup": "^2.0.4"
   }
 }
