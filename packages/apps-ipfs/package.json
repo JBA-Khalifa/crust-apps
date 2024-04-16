@@ -29,7 +29,7 @@
     "ipfs-geoip": "^6.0.0",
     "ipfs-http-client": "^48.0.0",
     "ipfs-provider": "^1.1.0",
-    "ipld-explorer-components": "^1.6.1",
+    "ipld-explorer-components": "^2.0.0",
     "is-binary": "^0.1.0",
     "is-ipfs": "^2.0.0",
     "it-first": "^1.0.4",
