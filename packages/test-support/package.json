@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@testing-library/react": "^11.2.5",
-    "testcontainers": "^6.4.2"
+    "testcontainers": "^8.6.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.9",
